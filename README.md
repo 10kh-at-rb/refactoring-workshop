@@ -1,5 +1,7 @@
 # Taller de Refactorización
 
+[Rubyconf Slides](http://es.slideshare.net/thoughtbot/refactoring-workshop-rubyconf-argentina-2014)
+
 Requerimientos: Ruby >=1.9.3, git, bundler.
 
 Cada carpeta lleva por nombre el patrón de refactoring a practicar, y los
